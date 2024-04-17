@@ -7,14 +7,14 @@
     "C:\\Users\\Hecto\\OneDrive\\Desktop\\Asp-net-mvc\\App-asp-net-mvc\\App-asp-net-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hecto\\OneDrive\\Desktop\\Asp-net-mvc\\App-asp-net-mvc\\App-asp-net-mvc.csproj",
+        "projectUniqueName": "C:\\Users\\Shado\\OneDrive\\Desktop\\Asp-net-mvc\\App-asp-net-mvc\\App-asp-net-mvc.csproj",
         "projectName": "App-asp-net-mvc",
-        "projectPath": "C:\\Users\\Hecto\\OneDrive\\Desktop\\Asp-net-mvc\\App-asp-net-mvc\\App-asp-net-mvc.csproj",
-        "packagesPath": "C:\\Users\\Hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hecto\\OneDrive\\Desktop\\Asp-net-mvc\\App-asp-net-mvc\\obj\\",
+        "projectPath": "C:\\Users\\Shado\\OneDrive\\Desktop\\Asp-net-mvc\\App-asp-net-mvc\\App-asp-net-mvc.csproj",
+        "packagesPath": "C:\\Users\\Shado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shado\\OneDrive\\Desktop\\Asp-net-mvc\\App-asp-net-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shado\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
